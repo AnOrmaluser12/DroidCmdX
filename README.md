@@ -38,3 +38,81 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 | **ADB Debugging**       | Enabled                          |
 | **PC**                  | Windows 10/11                    |
 | **Supported ART Compiler**| Yes                              |
+
+
+
+---
+**User Manual 📖**
+
+>By Default , We Have 3 Main Settings And 1 Auto Setup For Those Who Don't Really Know Which Settings Is The Best For Your Device.
+>
+>3 Main Settings We Have Is
+
+
+| **Settings**            |          ⚙️                         |
+|-------------------------|----------------------------------|
+| **Gaming** | At Least 8 Settings |
+| **Battery**| At Least 14 Settings|
+| **Optimize Android**| At Least 6 Settings |
+>
+>
+>Auto Setup Will Use Some ADB Commands , Which Is Suitable For Most Users 
+>
+>
+>
+>❓ If Only I Want To Gaming , Then Which Settings I Should Use ❓
+>
+>⚙️: Toggle Gamemode : On
+>
+>⚙️: Set Thermal To 0
+>
+>⚙️: Toggle Performance : On
+>
+>⚙️: Toggle Msaa/etc : Off
+>
+>⚙️: Toggle Show Debug : Off
+>
+>⚙️: Toggle Logs/etc : Off
+
+
+-----
+>❓ If Only i Want My Battery Last Longer , Then Which Settings I Should Use ❓
+>
+>⚙️ : Toggle Power Saver : On
+>
+>⚙️ : Toggle Animation : Off
+>
+>⚙️ : Toggle Auto Wifi : Off
+>
+>⚙️ : Toggle Sync : Off
+>
+>⚙️ : Toggle Motion : Off
+>
+>⚙️ : Toggle Wifi Recommendation : Off
+>
+>⚙️ : Toggle Send Error/ Toggle Looper/ Toggle ANR Debugging Mechanism/ Toggle Netstats/ Toggle Lock Profilling/ Toggle Logs : Off
+>
+>⚙️ : Run bg-dexopt-job in Optimize Android Settings
+>
+>⚙️ : Run Fstrim in Optimize Android Settings
+>
+>⚙️ : Run Kill-all Process In Optimize Android Settings
+>
+>⚙️ : Run Clear Log in Optimize Android Settings
+>
+>⚙️ : Run Clear Cache (Based on your storage like 128gb or 256gb then choose or just choose 1TB and just chill at this point)
+>
+>
+>
+-----
+>❓ If Only I Want To Daily Drive Without Messing Around With Settings In This Scripts ❓
+>
+>* Use Auto Settings In Main Menu
+>
+>
+-----
+>❓ Something Is Wrong When You Using Wrong Settings And Want To Remove It, What Should You Do ❓
+>
+>✳ A Restart Is All You Need
+
+----------------
