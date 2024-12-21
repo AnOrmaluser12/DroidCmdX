@@ -47,13 +47,13 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >By Default , We Have 3 Main Settings And 1 Auto Setup For Those Who Don't Really Know Which Settings Is The Best For Your Device.
 >
 >3 Main Settings We Have Is
-
-
-| **Settings**            |          ⚙️                         |
-|-------------------------|----------------------------------|
-| **Gaming** | At Least 8 Settings |
-| **Battery**| At Least 14 Settings|
-| **Optimize Android**| At Least 6 Settings |
+>
+>
+>  | **Settings**            |          ⚙️                         |
+>  |-------------------------|----------------------------------|
+>  | **Gaming** | At Least 8 Settings |
+>  | **Battery**| At Least 14 Settings|
+>  | **Optimize Android**| At Least 6 Settings |
 >
 >
 >
@@ -108,7 +108,7 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >
 >* Use Auto Settings In Main Menu
 >
->Auto Setup Will Use Some ADB Commands , Which Is Suitable For Most Users 
+>* Auto Settings Will Use Some ADB Commands , Which Is Suitable For Most Users 
 >
 -----
 >❓ Something Is Wrong When I Using Wrong Settings And Want To Remove All Settings I Applied, What Should I Do ❓
