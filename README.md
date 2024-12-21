@@ -56,7 +56,6 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 | **Optimize Android**| At Least 6 Settings |
 >
 >
->Auto Setup Will Use Some ADB Commands , Which Is Suitable For Most Users 
 >
 >
 >
@@ -109,6 +108,7 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >
 >* Use Auto Settings In Main Menu
 >
+>Auto Setup Will Use Some ADB Commands , Which Is Suitable For Most Users 
 >
 -----
 >❓ Something Is Wrong When I Using Wrong Settings And Want To Remove All Settings I Applied, What Should I Do ❓
