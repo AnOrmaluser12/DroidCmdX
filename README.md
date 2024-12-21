@@ -60,7 +60,7 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >
 >
 >
->❓ If Only I Want To Gaming , Then Which Settings I Should Use ❓
+>❓ I Want To Gaming , Then Which Settings I Should Use ❓
 >
 >⚙️: Toggle Gamemode : On
 >
@@ -76,7 +76,7 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 
 
 -----
->❓ If Only i Want My Battery Last Longer , Then Which Settings I Should Use ❓
+>❓ I Want My Battery Last Longer , Then Which Settings I Should Use ❓
 >
 >⚙️ : Toggle Power Saver : On
 >
@@ -105,13 +105,13 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >
 >
 -----
->❓ If Only I Want To Daily Drive Without Messing Around With Settings In This Scripts ❓
+>❓ I Want To Daily Drive Without Messing Around With Settings In This Scripts ❓
 >
 >* Use Auto Settings In Main Menu
 >
 >
 -----
->❓ Something Is Wrong When You Using Wrong Settings And Want To Remove It, What Should You Do ❓
+>❓ Something Is Wrong When I Using Wrong Settings And Want To Remove All Settings I Applied, What Should I Do ❓
 >
 >✳ A Restart Is All You Need
 
