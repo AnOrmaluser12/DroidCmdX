@@ -1,5 +1,6 @@
- |**Introduction**|
- 
+ **Introduction**
+-----
+
 Hello, Hunghoabinh here.
 Welcome To My Project, A Small Project To Keep Low-end , Mid-range Devices Have Better Experience Due Downgrades Overtime.
 
