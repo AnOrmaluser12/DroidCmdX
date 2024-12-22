@@ -13,7 +13,7 @@ Welcome To My Project, A Small Project To Keep Low-end , Mid-range Devices Have 
 
 Basically, This Scripts Will Optimize Your Devices With ADB Command , Which Don't Need To Root
 
-This Scripts Have At Least 17 Settings That You Can Change It If You Want  
+This Scripts Have At Least 28 Settings That You Can Change It If You Want  
 
 This Scripts Don't Have Any "Setprop For Gaming or Setprop For Ultra FPS woo hoo" , It Just Some Normal ADB Command That I Tested It And I Feel Safe To Use, So I Put Them In, Yet Its Still Work!! (Source : Trust Me Bro 👀)
 
