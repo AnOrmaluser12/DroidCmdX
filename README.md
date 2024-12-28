@@ -117,3 +117,17 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >✳ A Restart Is All You Need
 
 ----------------
+A Small Benchmark I Tested.
+----
+Lower Is Better (Video Processing Benchmark)
+
+![image](https://github.com/user-attachments/assets/e842d294-4389-4cb8-8a42-559916f8b9e6)
+
+Low Temp + Low Throttle + Stable Higher Is Better (Cpu Throttling Test)
+
+![image](https://github.com/user-attachments/assets/936953b4-9bbb-429e-bfa2-96822a6f5e8e)  ![image](https://github.com/user-attachments/assets/abbbfe27-3ce7-427b-a9dc-e522df440a92)
+
+Higher Is Better (Antutu)
+
+![image](https://github.com/user-attachments/assets/91e29fe5-2d07-4afa-8ae4-055d162fdde4)   ![image](https://github.com/user-attachments/assets/a8afc703-a751-47ec-81e9-343097309d48)
+
