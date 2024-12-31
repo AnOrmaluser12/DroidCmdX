@@ -133,20 +133,20 @@ And Here Is The Results:
 
 ### Hackbench (Lower Is Better)
 
--Stock : 16.295s
+- Stock : 16.295s
 
--DroidCmdX : 15.198s
+- DroidCmdX : 15.198s
 
 ### CPU Throttling Test (Low Throttle + Low Temp Is Better)
 
--Stock : 15*c and 9% Throttling
+- Stock : 15*c and 9% Throttling
 
--DroidCmdX : 13*c and 5% Throttling
+- DroidCmdX : 13*c and 5% Throttling
 
 ### Pipebench (Low Total Time + High OP Is Better)
 
--Stock : 81.644692 usecs/op, 12248 ops/sec , total time > 81.644 [sec]
+- Stock : 81.644692 usecs/op, 12248 ops/sec , total time > 81.644 [sec]
 
--DroidCmdX : 74.716105 usecs/op, 13383 ops/sec , total time > 74.716 [sec]
+- DroidCmdX : 74.716105 usecs/op, 13383 ops/sec , total time > 74.716 [sec]
 
 
