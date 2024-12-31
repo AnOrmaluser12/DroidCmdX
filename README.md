@@ -119,15 +119,34 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 ----------------
 A Small Benchmark I Tested.
 ----
-Lower Is Better (Video Processing Benchmark)
+Benchmark On Redmi 10C, MIUI 14 (Android 13), No Custom ROM or Custom Kernal With Only 3 Settings In Scripts Which Is :
 
-![image](https://github.com/user-attachments/assets/e842d294-4389-4cb8-8a42-559916f8b9e6)
+-Toggle Logs/etc > Off
 
-Low Temp + Low Throttle + Stable Higher Is Better (Cpu Throttling Test)
+-Toggle MSAA/etc > OFF
 
-![image](https://github.com/user-attachments/assets/936953b4-9bbb-429e-bfa2-96822a6f5e8e)  ![image](https://github.com/user-attachments/assets/abbbfe27-3ce7-427b-a9dc-e522df440a92)
+-Toggle Show Debug > Off
 
-Higher Is Better (Antutu)
 
-![image](https://github.com/user-attachments/assets/91e29fe5-2d07-4afa-8ae4-055d162fdde4)   ![image](https://github.com/user-attachments/assets/a8afc703-a751-47ec-81e9-343097309d48)
+
+And Here Is The Results:
+
+### Hackbench (Lower Is Better)
+
+-Stock : 16.295s
+
+-DroidCmdX : 15.198s
+
+### CPU Throttling Test (Low Throttle + Low Temp Is Better)
+
+-Stock : 15*c and 9% Throttling
+
+-DroidCmdX : 13*c and 5% Throttling
+
+### Pipebench (Low Total Time + High OP Is Better)
+
+-Stock : 81.644692 usecs/op, 12248 ops/sec , total time > 81.644 [sec]
+
+-DroidCmdX : 74.716105 usecs/op, 13383 ops/sec , total time > 74.716 [sec]
+
 
