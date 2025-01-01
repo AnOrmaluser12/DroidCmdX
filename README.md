@@ -13,7 +13,7 @@ Welcome To My Project, A Small Project To Keep Low-end , Mid-range Devices Have 
 
 Basically, This Scripts Will Optimize Your Devices With ADB Command , Which Don't Need To Root
 
-This Scripts Have At Least 28 Settings That You Can Change It If You Want  
+This Scripts Have At Least 26 Settings That You Can Change It If You Want  
 
 This Scripts Don't Have Any "Setprop For Gaming or Setprop For Ultra FPS woo hoo" , It Just Some Normal ADB Command That I Tested It And I Feel Safe To Use, So I Put Them In, Yet Its Still Work!! (Source : Trust Me Bro 👀)
 
@@ -52,8 +52,8 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >
 >  | **Settings**            |          ⚙️                         |
 >  |-------------------------|----------------------------------|
->  | **Gaming** | At Least 8 Settings |
->  | **Battery**| At Least 14 Settings|
+>  | **Gaming** | At Least 9 Settings |
+>  | **Battery**| At Least 11 Settings|
 >  | **Optimize Android**| At Least 6 Settings |
 >
 >
@@ -90,7 +90,7 @@ Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become F
 >
 >⚙️ : Toggle Wifi Recommendation : Off
 >
->⚙️ : Toggle Send Error/ Toggle Looper/ Toggle ANR Debugging Mechanism/ Toggle Netstats/ Toggle Lock Profilling/ Toggle Logs : Off
+>⚙️ : Toggle Logs/etc , Toggle Lock Profilling , Toggle Send Error : Off
 >
 >⚙️ : Run bg-dexopt-job in Optimize Android Settings
 >
