@@ -1,122 +1,53 @@
- **Introduction**
------
+**Introduction**
+---
+Welcome to my project! I’m Hunghoabinh, and this initiative is dedicated to improving the experience of low-end and mid-range Android devices. Over time, these devices may face performance degradation, and this project aims to address that by offering practical solutions to optimize and enhance their usability.
 
-Hello, Hunghoabinh here.
-Welcome To My Project, A Small Project To Keep Low-end , Mid-range Devices Have Better Experience Due Downgrades Overtime.
 
+
+**Benefits of Using This Script**
 --------------------
-> What This Project Can Do? Can It Make My Phone Run Faster Or Gaming Experience Will Be Alot Better Than Before ❔
+- Better Performance: Improved device performance and more stable experience.
+- Longer Battery Life: Reduced power usage for extended usage time without sacrificing performance.
+- No Root Needed: Safe and easy to use without compromising security.
+- Customizable: Easily adjust settings to suit your needs
 
-
-
-▶️Well Yes , But Not To Much.
-
-Basically, This Scripts Will Optimize Your Devices With ADB Command , Which Don't Need To Root
-
-This Scripts Have At Least 26 Settings That You Can Change It If You Want  
-
-This Scripts Don't Have Any "Setprop For Gaming or Setprop For Ultra FPS woo hoo" , It Just Some Normal ADB Command That I Tested It And I Feel Safe To Use, So I Put Them In, Yet Its Still Work!! (Source : Trust Me Bro 👀)
-
-Anyways, Don't Put Your Hope Into This Scripts Much ,Like It Will Gonna Become Flagship Devices.
-
+**Download And Tutorial**
 --------------------
-
-
-
-
-
+- Download Link : https://github.com/AnOrmaluser12/DroidCmdX/releases
+- Follow This User Manual : https://github.com/AnOrmaluser12/DroidCmdX/edit/main/README.md#user-manual-
 
 
  **Warning** ⚠️ 
-
+--------------------
 > While No Cats Have Been Harmed, Make Sure That You Don't Change Any Settings That You Don't Know What Will It Do
 >
 > You Have Been Warned!!
+
+Requirement
 --------------------
-| **Requirement**         | **Details**                      |
-|-------------------------|----------------------------------|
-| **Root**                | Not required                     |
-| **ADB Debugging**       | Enabled                          |
-| **PC**                  | Windows 10/11                    |
-| **Supported ART Compiler**| Yes                              |
 
+- A Smartphone Run Android OS
+- A PC Running Windows 10 Or Later
+- USB Debugging Must Be Enable
+- Root Is No Need Unless You Have Something To Do With Root
 
-
----
 **User Manual 📖**
+--------------------
+**Usage**
 
->By Default , We Have 3 Main Settings And 1 Auto Setup For Those Who Don't Really Know Which Settings Is The Best For Your Device.
+Once You Run This Scripts, You Will See 3 Main Settings Which Is
+
+- Gaming
+- Battery
+- Optimize Android
+
+> Each One Of Settings Will Have They Own Purpose
 >
->3 Main Settings We Have Is
->
->
->  | **Settings**            |          ⚙️                         |
->  |-------------------------|----------------------------------|
->  | **Gaming** | At Least 9 Settings |
->  | **Battery**| At Least 11 Settings|
->  | **Optimize Android**| At Least 6 Settings |
->
->
->
->
->
->❓ I Want To Gaming , Then Which Settings I Should Use ❓
->
->⚙️: Toggle Gamemode : On
->
->⚙️: Set Thermal To 0
->
->⚙️: Toggle Performance : On
->
->⚙️: Toggle Msaa/etc : Off
->
->⚙️: Toggle Show Debug : Off
->
->⚙️: Toggle Logs/etc : Off
+> And You Will Decide What You Want From This Script
 
 
------
->❓ I Want My Battery Last Longer , Then Which Settings I Should Use ❓
->
->⚙️ : Toggle Power Saver : On
->
->⚙️ : Toggle Animation : Off
->
->⚙️ : Toggle Auto Wifi : Off
->
->⚙️ : Toggle Sync : Off
->
->⚙️ : Toggle Motion : Off
->
->⚙️ : Toggle Wifi Recommendation : Off
->
->⚙️ : Toggle Logs/etc , Toggle Lock Profilling , Toggle Send Error : Off
->
->⚙️ : Run bg-dexopt-job in Optimize Android Settings
->
->⚙️ : Run Fstrim in Optimize Android Settings
->
->⚙️ : Run Kill-all Process In Optimize Android Settings
->
->⚙️ : Run Clear Log in Optimize Android Settings
->
->⚙️ : Run Clear Cache (Based on your storage like 128gb or 256gb then choose or just choose 1TB and just chill at this point)
->
->
->
------
->❓ I Want To Daily Drive Without Messing Around With Settings In This Scripts ❓
->
->* Use Auto Settings In Main Menu
->
->* Auto Settings Will Use Some ADB Commands , Which Is Suitable For Most Users 
->
------
->❓ Something Is Wrong When I Using Wrong Settings And Want To Remove All Settings I Applied, What Should I Do ❓
->
->✳ A Restart Is All You Need
+⭐ You Can Safely Turn On And Off Settings You Want, So Try Yourself Until You Get Best Setting For Yourself ,It's Up To You
 
-----------------
 A Small Benchmark I Tested.
 ----
 Benchmark On Redmi 10C, MIUI 14 (Android 13), No Custom ROM or Custom Kernal With Only 3 Settings In Scripts Which Is :
