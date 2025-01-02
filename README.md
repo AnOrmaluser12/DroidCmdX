@@ -14,7 +14,7 @@ Welcome to my project! I’m Hunghoabinh, and this initiative is dedicated to im
 **Download And Tutorial**
 --------------------
 - Download Link : https://github.com/AnOrmaluser12/DroidCmdX/releases
-- Follow This User Manual : https://github.com/AnOrmaluser12/DroidCmdX/edit/main/README.md#user-manual-
+- Follow This User Manual : [https://github.com/AnOrmaluser12/DroidCmdX/edit/main/README.md#user-manual-](https://github.com/AnOrmaluser12/DroidCmdX?tab=readme-ov-file#user-manual-)
 
 
  **Warning** ⚠️ 
