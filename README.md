@@ -48,6 +48,10 @@ Once You Run This Scripts, You Will See 3 Main Settings Which Is
 
 ⭐ You Can Safely Turn On And Off Settings You Want, So Try Yourself Until You Get Best Setting For Yourself ,It's Up To You
 
+>
+> This Scripts Can Be Combined With Other Magisk Module / Brevent Module / Or Any Kind Of Tweaks If You Don't Toggle Performance On , All Should Be Okay Since This Scripts Is **Universal** , Not For My Own Device.
+>
+
 A Small Benchmark I Tested.
 ----
 Benchmark On Redmi 10C, MIUI 14 (Android 13), No Custom ROM or Custom Kernal With Only 3 Settings In Scripts Which Is :
