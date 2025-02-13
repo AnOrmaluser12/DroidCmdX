@@ -84,4 +84,10 @@ And Here Is The Results:
 
 - DroidCmdX : 74.716105 usecs/op, 13383 ops/sec , total time > 74.716 [sec]
 
+-----
 
+
+Community
+----
+
+Link : https://xdaforums.com/t/tweak-no-root-optimize-your-android-device-by-adb-command.4709373/
