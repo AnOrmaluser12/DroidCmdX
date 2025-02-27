@@ -54,15 +54,17 @@ Once You Run This Scripts, You Will See 3 Main Settings Which Is
 
 A Small Benchmark I Tested.
 ----
-Benchmark On Redmi 10C, MIUI 14 (Android 13), No Custom ROM or Custom Kernal With Only 3 Settings In Scripts Which Is :
+Benchmark On Redmi 10C, MIUI 14 (Android 13), No Custom ROM or Custom Kernel With Only 3 Settings In Scripts Which Is :
 
 -Toggle Logs/etc > Off
 
--Toggle MSAA/etc > OFF
 
--Toggle Show Debug > Off
-
-
+>
+>-Toggle MSAA/etc > OFF
+>
+>-Toggle Show Debug > Off
+>
+>Some Of These Settings Is Merged Into **Toggle Logs/etc**
 
 And Here Is The Results:
 
@@ -74,15 +76,49 @@ And Here Is The Results:
 
 ### CPU Throttling Test (Low Throttle + Low Temp Is Better)
 
-- Stock : 15*c and 9% Throttling
+- Stock : 15*c increase and 9% Throttling
 
-- DroidCmdX : 13*c and 5% Throttling
+- DroidCmdX : 13*c increase and 5% Throttling
 
 ### Pipebench (Low Total Time + High OP Is Better)
 
 - Stock : 81.644692 usecs/op, 12248 ops/sec , total time > 81.644 [sec]
 
 - DroidCmdX : 74.716105 usecs/op, 13383 ops/sec , total time > 74.716 [sec]
+
+==============================
+
+Benchmark On Oppo A15 , ColorOS 7.2 (Android 10), No Custom ROM or Custom Kernel With These Settings In Scripts Which Is :
+
+-Toggle Logs/etc > Off
+
+-Toggle Performance > On
+
+-Optimize SurfaceFlinger > 60hz Balance
+
+-Toggle Animation > Off
+
+-Toggle Thermal-Service > 6
+
+And Here Is The Results :
+
+### Hackbench (Lower Is Better)
+
+- Stock : 23.748s
+
+- DroidCmdX : 23.554s
+
+### Pipebench (Low Total Time + High OP Is Better)
+
+- Stock : 23.343615 usecs/op, 42838 ops/sec, total time > 23.343 [sec]
+
+- DroidCmdX : 23.319535 usec/op, 42882 ops/sec, total time > 23.319 [sec]
+
+### CPU Throttling Test (Low Throttle + Low Temp Is Better)
+
+- Stock : 11*c increase and 23% Throttling
+
+- DroidCmdX: 24*c increase and 9% Throttling (idk what to say..)
 
 -----
 
