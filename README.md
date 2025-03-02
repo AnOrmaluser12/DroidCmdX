@@ -19,9 +19,9 @@ Welcome to my project! I’m Hunghoabinh, and this initiative is dedicated to im
 
  **Warning** ⚠️ 
 --------------------
-> While No Cats Have Been Harmed, Make Sure That You Don't Change Any Settings That You Don't Know What Will It Do
->
-> You Have Been Warned!!
+     While No Cats Have Been Harmed, Make Sure That You Don't Change Any Settings That You Don't Know What Will It Do
+    
+     You Have Been Warned!!
 
 Requirement
 --------------------
