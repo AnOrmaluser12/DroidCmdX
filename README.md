@@ -120,6 +120,33 @@ And Here Is The Results :
 
 - DroidCmdX: 24*c increase and 9% Throttling (idk what to say..)
 
+==============================
+
+Benchmark On Samsung A15, OneUI 6.0 (Android 14), No Custom ROM or Custom Kernel With Only 1 Settings In Script :
+
+-Toggle Performance > On
+
+And Here Is The Results:
+
+### Hackbench (Lower Is Better)
+
+- Stock : 36.018s
+
+- DroidCmdX : 35.463s
+
+### Pipebench (Low Total Time + High OP Is Better)
+
+- Stock : 45.800568 usecs/op | 21833 ops/sec | total time: 45.800 [sec]
+
+- DroidCmdX : 44.770002 usecs/op | 22336 ops/sec | total time: 44.770 [sec]
+
+
+### CPU Throttling Test (Low Throttle + Low Temp Is Better)
+
+- Stock : 9*c temp increase | 4% throttling 
+
+- DroidCmdX : 7*c temp increase | 19% throttling (??)
+
 -----
 
 
