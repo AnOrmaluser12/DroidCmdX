@@ -23,6 +23,10 @@ Welcome to my project! I’m Hunghoabinh, and this initiative is dedicated to im
     
      You Have Been Warned!!
 
+     
+     - All Settings From Scripts Won't Stick AFter Reboot
+     - All Settings From Scripts Will Stick Until Next Reboot
+
 Requirement
 --------------------
 
