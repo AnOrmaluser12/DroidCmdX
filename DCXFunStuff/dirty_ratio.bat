@@ -1,28 +1,24 @@
 @echo off
-chcp 65001
-
-:: Kiểm tra key và lưu giá trị vào file tạm
+chcp 65001 > nul
 adb shell device_config get storage_native_boot target_dirty_ratio > temp_result.txt
-
-:: Lấy giá trị từ file tạm và lưu vào biến result
 set /p result=<temp_result.txt
 
 :: Kiểm tra giá trị và xử lý
 if "%result%"=="null" (
-    echo Không phát hiện key storage_native_boot/target_dirty_ratio.
+    echo storage_native_boot/target_dirty_ratio is not detect.
     set "result="
 ) else if "%result%"=="" (
-    echo Không phát hiện key storage_native_boot/target_dirty_ratio.
+    echo storage_native_boot/target_dirty_ratio is not detect.
     set "result="
 ) else (
-    echo Đã phát hiện key storage_native_boot/target_dirty_ratio: %result%
+    echo found storage_native_boot/target_dirty_ratio: %result%
 )
-
-:: Xóa file tạm
 del temp_result.txt
-
-
+if not defined result (
+    pause
+    exit
+)
 set /a aducsa=%result%+10
-echo adb shell device_config put storage_native_boot target_dirty_ratio %aducsa%
-
+echo storage_native_boot/target_dirty_ratio is set to : %aducsa%
+adb shell device_config put storage_native_boot target_dirty_ratio %aducsa%
 pause
